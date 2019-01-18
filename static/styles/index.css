@@ -4,7 +4,7 @@ html {
 body {
   padding: 0;
   margin: 0;
-  background: url(/static/images/background.jpg) no-repeat center center fixed;
+  background: url(https://tiechui-1258528184.cos.ap-chengdu.myqcloud.com/tiechuiwang.wang/static/images/background.jpg) no-repeat center center fixed;
   width: 100%;
   height: 100%;
   overflow: hidden;
@@ -38,6 +38,6 @@ body {
   height: 98px;
   width: 416px;
   text-indent: -9999em;
-  background: url(/static/images/title.png) no-repeat;
+  background: url(https://tiechui-1258528184.cos.ap-chengdu.myqcloud.com/tiechuiwang.wang/static/images/title.png) no-repeat;
   z-index: 1000;
 }
